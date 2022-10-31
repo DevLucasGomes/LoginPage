@@ -1,3 +1,9 @@
+@media (max-width: 728px) {
+    #box {
+        width: 400px;
+    }
+}
+
 * {
     margin: 0px;
     padding: 0px;
