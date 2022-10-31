@@ -39,7 +39,7 @@ section {
     display: block;
     position: relative;
     top: 150px;
-    left: 155px;
+    left: 145px;
     border: 2px solid white;
     border-radius: 50px;
 }
@@ -49,7 +49,7 @@ section {
     color: black;
     position: relative;
     top: 260px;
-    left: 135px;
+    left: 125px;
     transition-duration: 0.5s;
 }
 
@@ -62,7 +62,7 @@ section {
     position: relative;
     display: block;
     top: 200px;
-    left: 120px;
+    left: 110px;
     border-radius: 5px;
     border: 0px;
     padding: 2px;
@@ -74,7 +74,7 @@ section {
     position: relative;
     display: block;
     top: 220px;
-    left: 120px;
+    left: 110px;
     border-radius: 5px;
     border: 0px;
     padding: 2px;
@@ -86,7 +86,7 @@ section {
     position: relative;
     display: block;
     top: 240px;
-    left: 130px;
+    left: 120px;
     width: 150px;
     border-radius: 5px;
     border: 0px;
