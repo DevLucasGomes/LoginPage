@@ -23,15 +23,13 @@ body {
 #box {
     background-image: linear-gradient(to bottom, #c7e0f7, #527e9c);
     min-width: 300px;
-    max-width: 350px;
+    max-width: 400px;
     height: 500px;
     position: relative;
     display: block;
     border: 1px solid black;
     box-shadow: 3px 3px 8px gray;
     margin: auto;
-    margin-right: 500px;
-    margin-left: 500px;
     margin-top: 50px;
     border-radius: 20px 1px;
 }
