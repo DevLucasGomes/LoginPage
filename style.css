@@ -55,7 +55,7 @@ section {
     color: black;
     position: relative;
     top: 260px;
-    left: 125px;
+    left: 135px;
     transition-duration: 0.5s;
 }
 
@@ -68,7 +68,7 @@ section {
     position: relative;
     display: block;
     top: 200px;
-    left: 110px;
+    left: 120px;
     border-radius: 5px;
     border: 0px;
     padding: 2px;
@@ -80,7 +80,7 @@ section {
     position: relative;
     display: block;
     top: 220px;
-    left: 110px;
+    left: 120px;
     border-radius: 5px;
     border: 0px;
     padding: 2px;
@@ -92,7 +92,7 @@ section {
     position: relative;
     display: block;
     top: 240px;
-    left: 120px;
+    left: 130px;
     width: 150px;
     border-radius: 5px;
     border: 0px;
