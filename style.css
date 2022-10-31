@@ -22,13 +22,14 @@ body {
 
 #box {
     background-image: linear-gradient(to bottom, #c7e0f7, #527e9c);
-    min-width: 450px;
+    width: 400px;
+    min-width: 400px;
     height: 500px;
     position: relative;
     display: block;
     border: 1px solid black;
     box-shadow: 3px 3px 8px gray;
-    margin: 50px 50px 50px 50px;
+    margin: auto;
     margin-top: 50px;
     border-radius: 20px 1px;
 }
