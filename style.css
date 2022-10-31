@@ -15,7 +15,8 @@ body {
 #titulo {
     text-align: center;
     position: relative;
-    top: 100px;
+    top: 60px;
+    font-size: 2.5em;
     line-height: 2px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
 }
@@ -38,7 +39,7 @@ body {
 #logo {
     display: block;
     position: relative;
-    top: 150px;
+    top: 135px;
     left: 145px;
     border: 2px solid white;
     border-radius: 50px;
