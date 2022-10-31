@@ -12,10 +12,6 @@ body {
     min-width: 300px;
 }
 
-section {
-    margin: 10px;
-}
-
 #titulo {
     text-align: center;
     position: relative;
@@ -29,7 +25,7 @@ section {
     background-image: linear-gradient(to bottom, #c7e0f7, #527e9c);
     width: 380px;
     min-width: 300px;
-    max-width: 1200px;
+    max-width: 600px;
     height: 500px;
     position: relative;
     display: block;
