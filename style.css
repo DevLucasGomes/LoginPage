@@ -24,15 +24,14 @@ body {
     background-image: linear-gradient(to bottom, #c7e0f7, #527e9c);
     width: 400px;
     min-width: 300px;
-    max-width: 450px;
-    height: 550px;
+    max-width: 400px;
+    height: 500px;
     position: relative;
     display: block;
     border: 1px solid black;
     box-shadow: 3px 3px 8px gray;
     margin: auto;
     margin-top: 50px;
-    padding: -10px;
     border-radius: 20px 1px;
 }
 
