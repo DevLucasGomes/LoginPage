@@ -9,7 +9,7 @@ body {
     width: 100%;
     height: 100%;
     max-width: 1800px;
-    min-width: 400px;
+    min-width: 300px;
 }
 
 #titulo {
@@ -22,7 +22,7 @@ body {
 
 #box {
     background-image: linear-gradient(to bottom, #c7e0f7, #527e9c);
-    width: 400px;
+    width: 380px;
     min-width: 300px;
     max-width: 450px;
     height: 500px;
