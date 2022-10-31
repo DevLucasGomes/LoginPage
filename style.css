@@ -28,6 +28,7 @@ body {
 #box {
     background-image: linear-gradient(to bottom, #c7e0f7, #527e9c);
     max-width: 400px;
+    min-width: 320px;
     height: 500px;
     position: relative;
     display: block;
@@ -121,10 +122,4 @@ footer {
 
 abbr {
     text-decoration: none;
-}
-
-@media (max-width: 400px) {
-    .box {
-        max-width: 320px;
-    }
 }
