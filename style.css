@@ -22,7 +22,7 @@ body {
 
 #box {
     background-image: linear-gradient(to bottom, #c7e0f7, #527e9c);
-    width: 350px;
+    width: 400px;
     min-width: 300px;
     max-width: 1200px;
     height: 500px;
