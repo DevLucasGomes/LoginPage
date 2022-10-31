@@ -24,6 +24,7 @@ body {
     background-image: linear-gradient(to bottom, #c7e0f7, #527e9c);
     width: 400px;
     min-width: 350px;
+    max-width: 400px;
     height: 500px;
     position: relative;
     display: block;
