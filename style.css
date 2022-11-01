@@ -54,11 +54,26 @@ section {
     color: black;
     position: relative;
     top: 260px;
-    left: 135px;
+    left: 120px;
     transition-duration: 0.5s;
+    line-height: 2em;
 }
 
 .link:hover {
+    color: white;
+}
+
+.linkcad {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    top: 260px;
+    left: 120px;
+    transition-duration: 0.5s;
+    line-height: 2em;
+}
+
+.linkcad:hover {
     color: white;
 }
 
@@ -67,7 +82,8 @@ section {
     position: relative;
     display: block;
     top: 200px;
-    left: 113px;
+    left: 100px;
+    width: 185px;
     border-radius: 10px;
     border: 0px;
     padding: 2px;
@@ -79,7 +95,8 @@ section {
     position: relative;
     display: block;
     top: 220px;
-    left: 113px;
+    left: 100px;
+    width: 185px;
     border-radius: 10px;
     border: 0px;
     padding: 2px;
@@ -93,8 +110,8 @@ section {
     color: white;
     background-image: linear-gradient(to right, #7c9dbd, #4d6e85);
     top: 240px;
-    left: 125px;
-    width: 150px;
+    left: 115px;
+    width: 155px;
     border-radius: 10px;
     border: 0.2px solid #6984a0;
     padding: 2px;
